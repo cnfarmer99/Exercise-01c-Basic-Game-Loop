@@ -1,7 +1,7 @@
 {
     "passages": [
       {
-        "text": "You are standing at the end of a road before a small brick building. Around you is a forest.  A small stream flows out of the building and down a gully.\n\n[[Go North->Forest]]\n[[Go East->Building]]\n[[Go South->Valley]]\n[[Go West->Hill]]",
+        "text": "You are standing at the end of a road before a small brick building. Around you is a forest.  A small stream flows out of the building and down a gully.\n\nGo North to the Forest\nGo East to the Building\nGo South to the Valley\nGo West to the Hill",
         "links": [
           {
             "name": "Go North",
@@ -32,7 +32,7 @@
         }
       },
       {
-        "text": "You are in open forest, with a deep valley to one side.\n\n[[Go North->Forest]]\n[[Go East->Building]]\n[[Go South->Road]]\n[[Go West->Hill]]",
+        "text": "You are in open forest, with a deep valley to one side.\n\nGo North to the Forest\nGo East to the Building\nGo South to the Valley\nGo West to the Hill",
         "links": [
           {
             "name": "Go North",
@@ -63,7 +63,7 @@
         }
       },
       {
-        "text": "You are inside a building, a well house for a large spring.\n\n[[Go North->Forest]]\n[[Go East->Building]]\n[[Go South->Valley]]\n[[Go West->Road]]",
+        "text": "You are inside a building, a well house for a large spring.\n\nGo North to the Forest\nGo East to the Building\nGo South to the Valley\nGo West to the Hill",
         "links": [
           {
             "name": "Go North",
@@ -94,7 +94,7 @@
         }
       },
       {
-        "text": "You are in a valley in the forest beside a stream tumbling along a rocky bed.\n\n[[Go North->Road]]\n[[Go East->Building]]\n[[Go South->Valley]]\n[[Go West->Hill]]",
+        "text": "You are in a valley in the forest beside a stream tumbling along a rocky bed.\n\nGo North to the Forest\nGo East to the Building\nGo South to the Valley\nGo West to the Hill",
         "links": [
           {
             "name": "Go North",
@@ -125,7 +125,7 @@
         }
       },
       {
-        "text": "You have walked up a hill, still in the forest.  The road slopes back\ndown the other side of the hill.  There is a building in the distance.\n\n[[Go North->Forest]]\n[[Go East->Road]]\n[[Go South->Valley]]\n[[Go West->Hill]]",
+        "text": "You have walked up a hill, still in the forest.  The road slopes back\ndown the other side of the hill.  There is a building in the distance.\n\nGo North to the Forest\nGo East to the Building\nGo South to the Valley\nGo West to the Hill",
         "links": [
           {
             "name": "Go North",
